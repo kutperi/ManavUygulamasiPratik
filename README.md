@@ -1,1 +1,1 @@
-Kullanıcıdan almak istediği meyvenin adını girdiği ve istediği meyvenin fiyatını gösteren bir manav uygulaması yaptık.
+Kullanıcıya hangi meyveyi satın almak istediğini soruyoruz. Aldığımız cevaba göre istediği meyvenin fiyatını gösteren bir manav uygulaması yaptık.
